@@ -1,0 +1,81 @@
+﻿Disease,Model,Model group,Output ID,Blinded output ID,Final DGQC score,Expert-confirmed CD,Usable draft
+Abortion Care,OpenSAGE,OpenSAGE,R2-D01-方案03,D01-方案03,72.50,no,yes
+Abortion Care,Claude-Opus-4.7,baseline,R2-D01-方案04,D01-方案04,56.81,no,no
+Abortion Care,Deepseek-v4,baseline,R2-D01-方案05,D01-方案05,21.67,yes,no
+Abortion Care,Doubao-2.0-Pro,baseline,R2-D01-方案08,D01-方案08,11.67,yes,no
+Abortion Care,GLM-5.1,baseline,R2-D01-方案02,D01-方案02,28.75,yes,no
+Abortion Care,GPT-5.5,baseline,R2-D01-方案06,D01-方案06,68.61,no,no
+Abortion Care,Gemini-3.1-Pro,baseline,R2-D01-方案01,D01-方案01,29.03,yes,no
+Abortion Care,Qwen-3.6-Plus,baseline,R2-D01-方案07,D01-方案07,18.33,yes,no
+COVID-19,OpenSAGE,OpenSAGE,R2-D02-方案05,D02-方案05,74.72,no,yes
+COVID-19,Claude-Opus-4.7,baseline,R2-D02-方案03,D02-方案03,39.58,yes,no
+COVID-19,Deepseek-v4,baseline,R2-D02-方案02,D02-方案02,31.67,yes,no
+COVID-19,Doubao-2.0-Pro,baseline,R2-D02-方案06,D02-方案06,12.50,yes,no
+COVID-19,GLM-5.1,baseline,R2-D02-方案01,D02-方案01,31.67,yes,no
+COVID-19,GPT-5.5,baseline,R2-D02-方案08,D02-方案08,45.00,no,no
+COVID-19,Gemini-3.1-Pro,baseline,R2-D02-方案04,D02-方案04,24.17,yes,no
+COVID-19,Qwen-3.6-Plus,baseline,R2-D02-方案07,D02-方案07,10.00,yes,no
+HIV,OpenSAGE,OpenSAGE,R2-D03-方案02,D03-方案02,72.08,no,yes
+HIV,Claude-Opus-4.7,baseline,R2-D03-方案01,D03-方案01,34.58,yes,no
+HIV,Deepseek-v4,baseline,R2-D03-方案04,D03-方案04,29.17,yes,no
+HIV,Doubao-2.0-Pro,baseline,R2-D03-方案03,D03-方案03,24.86,yes,no
+HIV,GLM-5.1,baseline,R2-D03-方案07,D03-方案07,22.29,yes,no
+HIV,GPT-5.5,baseline,R2-D03-方案05,D03-方案05,49.03,no,no
+HIV,Gemini-3.1-Pro,baseline,R2-D03-方案08,D03-方案08,27.50,yes,no
+HIV,Qwen-3.6-Plus,baseline,R2-D03-方案06,D03-方案06,14.17,yes,no
+Infertility,OpenSAGE,OpenSAGE,R2-D04-方案06,D04-方案06,74.10,no,yes
+Infertility,Claude-Opus-4.7,baseline,R2-D04-方案07,D04-方案07,30.00,yes,no
+Infertility,Deepseek-v4,baseline,R2-D04-方案02,D04-方案02,24.17,yes,no
+Infertility,Doubao-2.0-Pro,baseline,R2-D04-方案03,D04-方案03,13.33,yes,no
+Infertility,GLM-5.1,baseline,R2-D04-方案08,D04-方案08,24.58,yes,no
+Infertility,GPT-5.5,baseline,R2-D04-方案05,D04-方案05,34.58,yes,no
+Infertility,Gemini-3.1-Pro,baseline,R2-D04-方案01,D04-方案01,26.88,yes,no
+Infertility,Qwen-3.6-Plus,baseline,R2-D04-方案04,D04-方案04,14.17,yes,no
+Malaria,OpenSAGE,OpenSAGE,R2-D05-方案04,D05-方案04,74.72,no,yes
+Malaria,Claude-Opus-4.7,baseline,R2-D05-方案01,D05-方案01,30.00,yes,no
+Malaria,Deepseek-v4,baseline,R2-D05-方案07,D05-方案07,22.92,yes,no
+Malaria,Doubao-2.0-Pro,baseline,R2-D05-方案05,D05-方案05,16.67,yes,no
+Malaria,GLM-5.1,baseline,R2-D05-方案03,D05-方案03,33.33,yes,no
+Malaria,GPT-5.5,baseline,R2-D05-方案06,D05-方案06,48.19,no,no
+Malaria,Gemini-3.1-Pro,baseline,R2-D05-方案02,D05-方案02,24.79,yes,no
+Malaria,Qwen-3.6-Plus,baseline,R2-D05-方案08,D05-方案08,25.42,yes,no
+Maternal Health,OpenSAGE,OpenSAGE,R2-D06-方案06,D06-方案06,64.65,no,no
+Maternal Health,Claude-Opus-4.7,baseline,R2-D06-方案03,D06-方案03,31.67,yes,no
+Maternal Health,Deepseek-v4,baseline,R2-D06-方案07,D06-方案07,24.58,yes,no
+Maternal Health,Doubao-2.0-Pro,baseline,R2-D06-方案01,D06-方案01,11.67,yes,no
+Maternal Health,GLM-5.1,baseline,R2-D06-方案05,D06-方案05,30.00,yes,no
+Maternal Health,GPT-5.5,baseline,R2-D06-方案08,D06-方案08,62.92,no,no
+Maternal Health,Gemini-3.1-Pro,baseline,R2-D06-方案02,D06-方案02,33.33,yes,no
+Maternal Health,Qwen-3.6-Plus,baseline,R2-D06-方案04,D06-方案04,15.83,yes,no
+Meningitis,OpenSAGE,OpenSAGE,R2-D07-方案08,D07-方案08,74.03,no,yes
+Meningitis,Claude-Opus-4.7,baseline,R2-D07-方案02,D07-方案02,34.58,yes,no
+Meningitis,Deepseek-v4,baseline,R2-D07-方案05,D07-方案05,21.67,yes,no
+Meningitis,Doubao-2.0-Pro,baseline,R2-D07-方案03,D07-方案03,14.17,yes,no
+Meningitis,GLM-5.1,baseline,R2-D07-方案04,D07-方案04,29.17,yes,no
+Meningitis,GPT-5.5,baseline,R2-D07-方案06,D07-方案06,33.12,yes,no
+Meningitis,Gemini-3.1-Pro,baseline,R2-D07-方案01,D07-方案01,28.33,yes,no
+Meningitis,Qwen-3.6-Plus,baseline,R2-D07-方案07,D07-方案07,18.33,yes,no
+Mental Health Disorders,OpenSAGE,OpenSAGE,R2-D08-方案05,D08-方案05,71.74,no,yes
+Mental Health Disorders,Claude-Opus-4.7,baseline,R2-D08-方案03,D08-方案03,37.50,yes,no
+Mental Health Disorders,Deepseek-v4,baseline,R2-D08-方案02,D08-方案02,22.92,yes,no
+Mental Health Disorders,Doubao-2.0-Pro,baseline,R2-D08-方案01,D08-方案01,13.33,yes,no
+Mental Health Disorders,GLM-5.1,baseline,R2-D08-方案08,D08-方案08,25.83,yes,no
+Mental Health Disorders,GPT-5.5,baseline,R2-D08-方案06,D08-方案06,52.50,no,no
+Mental Health Disorders,Gemini-3.1-Pro,baseline,R2-D08-方案07,D08-方案07,33.33,yes,no
+Mental Health Disorders,Qwen-3.6-Plus,baseline,R2-D08-方案04,D08-方案04,16.67,yes,no
+Substance Use Disorders,OpenSAGE,OpenSAGE,R2-D09-方案08,D09-方案08,66.81,no,no
+Substance Use Disorders,Claude-Opus-4.7,baseline,R2-D09-方案03,D09-方案03,34.58,yes,no
+Substance Use Disorders,Deepseek-v4,baseline,R2-D09-方案07,D09-方案07,25.83,yes,no
+Substance Use Disorders,Doubao-2.0-Pro,baseline,R2-D09-方案05,D09-方案05,13.33,yes,no
+Substance Use Disorders,GLM-5.1,baseline,R2-D09-方案01,D09-方案01,29.17,yes,no
+Substance Use Disorders,GPT-5.5,baseline,R2-D09-方案02,D09-方案02,63.40,no,no
+Substance Use Disorders,Gemini-3.1-Pro,baseline,R2-D09-方案06,D09-方案06,29.17,yes,no
+Substance Use Disorders,Qwen-3.6-Plus,baseline,R2-D09-方案04,D09-方案04,31.67,yes,no
+Tuberculosis,OpenSAGE,OpenSAGE,R2-D10-方案07,D10-方案07,72.50,no,yes
+Tuberculosis,Claude-Opus-4.7,baseline,R2-D10-方案03,D10-方案03,38.75,yes,no
+Tuberculosis,Deepseek-v4,baseline,R2-D10-方案08,D10-方案08,25.83,yes,no
+Tuberculosis,Doubao-2.0-Pro,baseline,R2-D10-方案04,D10-方案04,12.50,yes,no
+Tuberculosis,GLM-5.1,baseline,R2-D10-方案06,D10-方案06,30.00,yes,no
+Tuberculosis,GPT-5.5,baseline,R2-D10-方案02,D10-方案02,65.07,no,no
+Tuberculosis,Gemini-3.1-Pro,baseline,R2-D10-方案05,D10-方案05,34.58,yes,no
+Tuberculosis,Qwen-3.6-Plus,baseline,R2-D10-方案01,D10-方案01,21.67,yes,no
